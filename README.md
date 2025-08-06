@@ -66,8 +66,12 @@ moviesite_react/
   <li>query-string</li>
 </ul>
 
-<h2>📷 Screenshots</h2>
-<p><em>Add your screenshots here for a better visual impact.</em></p>
+<h2>📷 Screenshot</h2>
+<img src="Screenshots/Screenshot 2025-08-06 185649.png" alt="Description" width="700" height="auto" />
+<img src="Screenshots/Screenshot 2025-08-06 185703.png" alt="Description" width="700" height="auto" />
+<img src="Screenshots/Screenshot 2025-08-06 185716.png" alt="Description" width="700" height="auto" />
+<img src="Screenshots/Screenshot 2025-08-06 185733.png" alt="Description" width="700" height="auto" />
+
 
 <h2>📡 API</h2>
 <p>This project likely connects to <strong>The Movie Database (TMDb)</strong> API or similar.<br>
